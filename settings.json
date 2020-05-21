@@ -1,0 +1,5 @@
+{
+	"LearningRate": 1.2,
+	"EpochsPerDataset": 25,
+	"BatchSize": 10
+}
